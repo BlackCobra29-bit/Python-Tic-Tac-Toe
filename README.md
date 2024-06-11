@@ -23,4 +23,4 @@ This is a Tic-Tac-Toe game built with Pygame, a Python library for creating game
 1. Clone the repository:
 
 ```bash
-git@github.com:BlackCobra29-bit/Tic-Tac-Toe.git
+git@github.com:BlackCobra29-bit/Python-Tic-Tac-Toe.git
